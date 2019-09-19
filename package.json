@@ -1,0 +1,14 @@
+{
+  "name": "@fibos/nodes",
+  "version": "1.0.0",
+  "description": "fibos nodes",
+  "main": "lib",
+  "types": "typd.d.ts",
+  "repository": "git@github.com:fibos-modules/nodes.git",
+  "keywords": [
+    "fibos",
+    "nodes"
+  ],
+  "author": "richardo2016 <richardo2016@gmail.com>",
+  "license": "MIT"
+}
