@@ -1,5 +1,8 @@
 ## @fibos/nodes
 
+[![NPM version](https://img.shields.io/npm/v/@fibos/nodes.svg)](https://www.npmjs.org/package/@fibos/nodes)
+[![Build Status](https://travis-ci.org/fibos-modules/nodes.svg)](https://travis-ci.org/fibos-modules/nodes)
+
 nodes information about fibos nodes, such as p2p addresses:
 
 ```
